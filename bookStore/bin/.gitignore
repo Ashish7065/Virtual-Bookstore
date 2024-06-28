@@ -13,6 +13,13 @@ target/
 .springBeans
 .sts4-cache
 
+
+*.springboot linguist-detectable=true
+*.CSS linguist-detectable=false
+*.java linguist-detectable=true
+*.mysql linguist-detectable=true
+
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
